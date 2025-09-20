@@ -36,16 +36,8 @@ The program establishes a full **end-to-end silicon flow**:
 
 | Week | Theme | Status |
 |------|-------|--------|
-| 1 | Environment setup & RTL simulation basics | ⬜ Pending |
-| 2 | Synthesis & Gate-Level Simulation (GLS) | ⬜ Pending |
-| 3 | RISC-V ISA & toolchain familiarization | ⬜ Pending |
-| 4 | Pipeline bugs, clock gating & CPU GLS | ⬜ Pending |
-| 5 | Static Timing Analysis (STA) fundamentals | ⬜ Pending |
-| 6 | CMOS & SPICE simulation with SKY130 PDK | ⬜ Pending |
-| 7 | OpenLane: Floorplan → Placement | ⬜ Pending |
-| 8 | Clock Tree Synthesis (CTS), routing & post-route STA | ⬜ Pending |
-| 9 | Multi-corner timing analysis & sign-off preparation | ⬜ Pending |
-| 10 | Final polish, documentation & reporting | ⬜ Pending |
+| 0 | Environment setup | ✔ Completed|
+
 
 ## Acknowledgements
 This journey is made possible by:  
