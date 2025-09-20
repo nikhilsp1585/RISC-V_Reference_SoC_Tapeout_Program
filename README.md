@@ -32,7 +32,7 @@ The program establishes a full **end-to-end silicon flow**:
 - Signoff & tapeout  
 - Post-silicon validation  
 
-## 📝 Phase 1: Recruitment & Training (10 Weeks)
+## Phase 1: Recruitment & Training (10 Weeks)
 
 | Week | Theme | Status |
 |------|-------|--------|
