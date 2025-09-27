@@ -37,7 +37,7 @@ The program establishes a full **end-to-end silicon flow**:
 
 | Week | Theme                                                                   | Status      |
 | ---- | ----------------------------------------------------------------------- | ----------- |
-| Week0 (https://github.com/nikhilsp1585/RISC-V_Reference_SoC_Tapeout_Program/tree/main/Week0)   | Getting started with Digital VLSI SOC Design and Planning & Tools setup | ✔ Completed |
+| [Week0 ](https://github.com/nikhilsp1585/RISC-V_Reference_SoC_Tapeout_Program/tree/main/Week0)   | Getting started with Digital VLSI SOC Design and Planning & Tools setup | ✔ Completed |
 
 ## Acknowledgements
 
@@ -46,8 +46,3 @@ This journey is made possible by:
 - **VLSI System Design (VSD)** for training and mentorship
 - **IIT Gandhinagar (IITGN)** for execution support
 - **India Semiconductor Mission** for enabling academic silicon tapeouts
-
-## License
-
-[MIT License](LICENSE)  
-Feel free to learn, adapt, and contribute!
